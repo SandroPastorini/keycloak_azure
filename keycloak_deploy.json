@@ -173,7 +173,7 @@
                     "imageReference": {
                         "publisher": "Canonical",
                         "offer": "UbuntuServer",
-                        "sku": "18.04-LTS",
+                        "sku": "20.04-LTS",
                         "version": "latest"
                     },
                     "osDisk": {
@@ -215,7 +215,7 @@
                 "autoUpgradeMinorVersion": true,
                 "settings": {
                     "fileUris": [
-                        "https://raw.githubusercontent.com/aravindan-acct/keycloak_azure/main/scripts/customscript.sh"
+                        "https://raw.githubusercontent.com/SandroPastorini/keycloak_azure/main/scripts/customscript.sh"
                     ]
                 },
                 "protectedSettings": {
